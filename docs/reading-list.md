@@ -2,7 +2,7 @@
 
 ### 📚 Theory
 - [x] [Web Brutalism, Seamfulness, and Notion](https://www.viget.com/articles/web-brutalism-seamfulness-and-notion)
-- [ ] [The Map Is Not the Territory](https://fs.blog/2015/11/map-and-territory)
+- [X] [The Map Is Not the Territory](https://fs.blog/2015/11/map-and-territory)
 - [ ] [React is a Potato and Other Visual Metaphors](https://youtu.be/MQGe9zxlRdk)
 - [ ] [How does Viget Javascript](https://www.viget.com/articles/how-does-viget-javascript/)
 - [ ] [Understanding typescript generics](https://seanbarry.dev/posts/understanding-typescript-generics)
@@ -166,6 +166,9 @@
 
 ### 🎛 UI Development
 - [x] [The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)
+- [x] [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+- [x] [Managing vertical margins in CSS](https://cssfordesigners.com/articles/managing-vertical-margins-in-css)
+- [x] [Axiomatic CSS and lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 - [ ] [SmolCSS](https://smolcss.dev/)
 - [ ] [Beginner's guide to accessibility](https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f)
 - [ ] [Chasing the pixel perfect dream](https://www.joshwcomeau.com/css/pixel-perfection/)
@@ -216,6 +219,7 @@
 
 ### ⚛️ React 
 - [ ] [Use CSS Variables instead of React Context](https://epicreact.dev/css-variables/)
+- [x] [5 key lessons that React tutorials don't teach](https://reedbarger.hashnode.dev/5-key-lessons-react-tutorials-dont-teach)
 - [ ] [React with D3.js](https://wattenberger.com/blog/react-and-d3)
 - [ ] [Debouncing vs throttling](https://dev.to/anuradha9712/debouncing-v-s-throttling-lb2)
 - [ ] [Hide useQuery](https://log.seruco.io/hide-usequery/)
