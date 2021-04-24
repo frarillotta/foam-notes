@@ -167,6 +167,10 @@
 ### 🎛 UI Development
 - [x] [The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)
 - [x] [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css)
+- [x] [How I structure my CSS](https://matthiasott.com/notes/how-i-structure-my-css)
+- [x] [Data attributes for CSS](https://cube.fyi/exception.html)
+- [x] [BEM 101](https://css-tricks.com/bem-101/)
+- [x] [Manage large projects with ITCSS](https://www.creativebloq.com/web-design/manage-large-css-projects-itcss-101517528)
 - [x] [Managing vertical margins in CSS](https://cssfordesigners.com/articles/managing-vertical-margins-in-css)
 - [x] [Axiomatic CSS and lobotomized Owls](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls/)
 - [ ] [SmolCSS](https://smolcss.dev/)
