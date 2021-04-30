@@ -3,7 +3,7 @@
 ### 📚 Theory
 - [x] [Web Brutalism, Seamfulness, and Notion](https://www.viget.com/articles/web-brutalism-seamfulness-and-notion)
 - [X] [The Map Is Not the Territory](https://fs.blog/2015/11/map-and-territory)
-- [ ] [React is a Potato and Other Visual Metaphors](https://youtu.be/MQGe9zxlRdk)
+- [X] [React is a Potato and Other Visual Metaphors](https://youtu.be/MQGe9zxlRdk)
 - [ ] [How does Viget Javascript](https://www.viget.com/articles/how-does-viget-javascript/)
 - [ ] [Understanding typescript generics](https://seanbarry.dev/posts/understanding-typescript-generics)
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html)
@@ -154,7 +154,7 @@
 - [ ] [Refactoring UI](https://refactoringui.com/)
 - [ ] [Dieter Rams: 10 Principles of good design](https://uxdesign.cc/dieter-rams-10-principles-of-good-design-applied-to-ux-design-a4a45daedebb)
 - [ ] [Button design](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7)
-- [ ] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+- [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 - [ ] [Butterick's Practical Typography](https://practicaltypography.com/)
 - [ ] [Degreeless Design](https://www.degreeless.design/)
 - [ ] [Design Thinking Handbook](https://www.designbetter.co/design-thinking)
