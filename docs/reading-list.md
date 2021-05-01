@@ -152,6 +152,7 @@
 
 ### 🎨 Design for Developers
 - [ ] [Refactoring UI](https://refactoringui.com/)
+- [x] [The designs of tomorrow](https://mxb.dev/blog/layouts-of-tomorrow/)
 - [ ] [Dieter Rams: 10 Principles of good design](https://uxdesign.cc/dieter-rams-10-principles-of-good-design-applied-to-ux-design-a4a45daedebb)
 - [ ] [Button design](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7)
 - [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
