@@ -5,7 +5,7 @@
 - [X] [The Map Is Not the Territory](https://fs.blog/2015/11/map-and-territory)
 - [X] [React is a Potato and Other Visual Metaphors](https://youtu.be/MQGe9zxlRdk)
 - [ ] [How does Viget Javascript](https://www.viget.com/articles/how-does-viget-javascript/)
-- [ ] [Understanding typescript generics](https://seanbarry.dev/posts/understanding-typescript-generics)
+- [X] [Understanding typescript generics](https://seanbarry.dev/posts/understanding-typescript-generics)
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html)
 - [ ] [Making Music Creative Strategies for Electronic Music Producers](https://makingmusic.ableton.com/catalog-of-attributes)
 - [x] [TS vs JS & OOP vs FP](https://github.com/staltz/ama/issues/49)
@@ -33,6 +33,7 @@
 
 ### 👨🏽‍💻 Leadership/Management
 - [ ] [Career Ladders — DX](https://career-ladders.dev/devex)
+- [X] [The importance of humility](http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/)
 - [ ] [Mistakes I’ve Made as an Engineering Manager](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
 - [ ] [Important memos](https://sriramk.com/memos.html)
 - [ ] [Nakazawa management starter pack](https://cpojer.net/posts/the-nakazawa-management-starter-pack)
